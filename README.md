@@ -8,7 +8,10 @@
         <p>- A. Rack, Mount, And Power On The Cisco 2911 Router</p>
         <p>- B. Install Uck9 License</p>
         <p>- C. Basic Router Configurations (Hostname, NTP, Domain-Name, SSH, Etc)</p>
-        <p>- D. Once The New Wireless Tablet Is Connected Confirm It Has Access To The Corporate Networks And Internet</p>
+        <p>- D. Configure And Connect Branch 1 LAN Interface G0/0</p>
+            <p>- I. MGMT Interface VLAN 100</p>
+            <p>- II. Data Interface VLAN 192</p>
+            <p>- III. Voice Interface VLAN 10</p>
     <p><b>Step 2: Install And Configure Guest Wireless Access</b></p>
         <p>- A. On The HQ Server Configure The DHCP Scope For The Guest Network</p>
             <p>- I. Default Gateway</p>
