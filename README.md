@@ -14,7 +14,7 @@
             <p>- III. Voice Interface VLAN 10</p>
         <p>- E. Configure A Switchport On HQ Access Switch 3 To Be A Member Of VLAN 172 (Guest)</p>
         <p>- F. Install A New AccessPoint-PT And Connect It To The Newly Configured Switchport On HQ Access Switch 3</p>
-        <p>- G. Configure And Connect Branch 1 LAN Interface G0/0</p>
+        <p>- G. Configure The New AP With A Unique SSID (GUEST), Channel, And Passphrase Using WPA2-PSK And AES</p>
         <p>- E. Configure And Connect Branch 1 LAN Interface G0/0</p>
         <p>- E. Configure And Connect Branch 1 LAN Interface G0/0</p>
         <p>- E. Configure And Connect Branch 1 LAN Interface G0/0</p>
