@@ -12,6 +12,24 @@
             <p>- I. MGMT Interface VLAN 100</p>
             <p>- II. Data Interface VLAN 192</p>
             <p>- III. Voice Interface VLAN 10</p>
+        <p>- E. Configure A Switchport On HQ Access Switch 3 To Be A Member Of VLAN 172 (Guest)</p>
+        <p>- F. Install A New AccessPoint-PT And Connect It To The Newly Configured Switchport On HQ Access Switch 3</p>
+        <p>- G. Configure And Connect Branch 1 LAN Interface G0/0</p>
+        <p>- E. Configure And Connect Branch 1 LAN Interface G0/0</p>
+        <p>- E. Configure And Connect Branch 1 LAN Interface G0/0</p>
+        <p>- E. Configure And Connect Branch 1 LAN Interface G0/0</p>
+        <p>- E. Configure And Connect Branch 1 LAN Interface G0/0</p>
+        <p>- E. Configure And Connect Branch 1 LAN Interface G0/0</p>
+        <p>- E. Configure And Connect Branch 1 LAN Interface G0/0</p>
+        <p>- E. Configure And Connect Branch 1 LAN Interface G0/0</p>
+        <p>- E. Configure And Connect Branch 1 LAN Interface G0/0</p>
+        <p>- E. Configure And Connect Branch 1 LAN Interface G0/0</p>
+        <p>- E. Configure And Connect Branch 1 LAN Interface G0/0</p>
+        <p>- E. Configure And Connect Branch 1 LAN Interface G0/0</p>
+        <p>- E. Configure And Connect Branch 1 LAN Interface G0/0</p>
+        <p>- E. Configure And Connect Branch 1 LAN Interface G0/0</p>
+        <p>- E. Configure And Connect Branch 1 LAN Interface G0/0</p>
+        <p>- E. Configure And Connect Branch 1 LAN Interface G0/0</p>
     <p><b>Step 2: Install And Configure Guest Wireless Access</b></p>
         <p>- A. On The HQ Server Configure The DHCP Scope For The Guest Network</p>
             <p>- I. Default Gateway</p>
