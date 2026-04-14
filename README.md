@@ -4,10 +4,10 @@
 <h1><u>Milestone 9: Branch 1 Route/Switch</u></h1>
     <p>Eighth phase, we will install 1 CISCO2911/K9 router with ipbasek9, and uck9 licensing. This router will act as the Branch 1 gateway providing access back to HQ and Branch 2 via the Private WAN and function as the local call controller and PSTN gateway. In addition, consultant will install a Cisco WS-C2960-24TT layer 2 access switch.</p>
     <h2><strong><u>Configuration Steps</u></strong></h2>
-    <p><b>Step 1: Install And Configure Corporate Wireless Access</b></p>
-        <p>- A. Install An AccessPoint-PT And Connect It To HQ Core Switch 2 Into An Access Port</p>
-        <p>- B. Configure The New AP With A Unique SSID, Channel, And Passphrase Using WPA2-PSK And AES</p>
-        <p>- C. Install A Wireless Tablet And Configure It With The Same SSID And Passphrase</p>
+    <p><b>Step 1: Install And Configure The Branch 1 Router</b></p>
+        <p>- A. Rack, Mount, And Power On The Cisco 2911 Router</p>
+        <p>- B. Install Uck9 License</p>
+        <p>- C. Basic Router Configurations (Hostname, NTP, Domain-Name, SSH, Etc)</p>
         <p>- D. Once The New Wireless Tablet Is Connected Confirm It Has Access To The Corporate Networks And Internet</p>
     <p><b>Step 2: Install And Configure Guest Wireless Access</b></p>
         <p>- A. On The HQ Server Configure The DHCP Scope For The Guest Network</p>
