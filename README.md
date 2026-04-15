@@ -31,11 +31,22 @@
                 <p>- 2. Neighbor</p>
                 <p>- 3. Networks</p>
         <p>- H. Configure Default Route Pointing To Private WAN Neighbor IP</p>
-        <p>- I. Once The New Wireless Tablet Is Connected Confirm It Has Access To The Internet, But CANNOT Access Any Of The Corporate Networks</p>
-        <p>- J. Configure And Connect Branch 1 LAN Interface G0/0</p>
-        <p>- K. Configure And Connect Branch 1 LAN Interface G0/0</p>
-        <p>- L. Configure And Connect Branch 1 LAN Interface G0/0</p>
-        <p>- M. Configure And Connect Branch 1 LAN Interface G0/0</p>
+        <p>- I. Configure Private WAN Voice Quality Of Service</p>
+            <p>- I. VOIP Control And RTP Access-Lists</p>
+            <p>- II. VOIP Control And RTP Class-Maps</p>
+            <p>- III. Policy-Map</p>
+            <p>- IV. Apply Policy-Map To Private WAN Interface G0/</p>
+        <p>- J. Configure Telephony-Service</p>
+            <p>- I. Max-Ephones</p>
+            <p>- II. Max-DN</p>
+            <p>- III. IP Source-Address</p>
+        <p>- K. Configure Branch 1 Ephone-DNS</p>
+            <p>- x2001, x2002</p>
+        <p>- L. Configure PSTN Access-List</p>
+        <p>- M. Configure PSTN Voice Interface G0/1</p>
+            <p>- I. IP Address</p>
+            <p>- II. Disable CDP</p>
+            <p>- III. Apply PSTN Access-List Inbound</p>
         <p>- N. Configure And Connect Branch 1 LAN Interface G0/0</p>
         <p>- O. Configure And Connect Branch 1 LAN Interface G0/0</p>
         <p>- P. Configure And Connect Branch 1 LAN Interface G0/0</p>
