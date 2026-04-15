@@ -22,7 +22,9 @@
                 <p>- 1. Network</p>
                 <p>- 2. Default-Router</p>
                 <p>- 3. Option 150 IP</p>
-        <p>- F. Install A New AccessPoint-PT And Connect It To The Newly Configured Switchport On HQ Access Switch 3</p>
+        <p>- F. Configure And Connect Private WAN Interface G0/1</p>
+            <p>- I. IP Address</p>
+            <p>- II. Disable CDP</p>
         <p>- G. Configure The New AP With A Unique SSID (GUEST), Channel, And Passphrase Using WPA2-PSK And AES</p>
         <p>- H. Install A Wireless Tablet And Configure It With The Same SSID And Passphrase.</p>
         <p>- I. Once The New Wireless Tablet Is Connected Confirm It Has Access To The Internet, But CANNOT Access Any Of The Corporate Networks</p>
