@@ -69,7 +69,7 @@
         <p>- F. Configure And Connect Trunks Port Back To The Branch 1 Router</p>
         <p>- G. Configure Access Ports</p>
         <h2><strong><u>Implementation</u></strong></h2>
-        <h3>Step 1: Install And Configure Corporate Wireless Access</h3>
+        <h3>Step 1: Install And Configure The Branch 1 Router</h3>
             <p>- A. Install An AccessPoint-PT And Connect It To HQ Core Switch 2 Into An Access Port.</p>
             <p>- First, we will install a wireless access point to connect corporate wireless users to the data network.</p>
                 <img width="939" height="884" alt="Screenshot 2026-04-14 181638" src="https://github.com/user-attachments/assets/ddb4e5c1-6c5b-40ee-a2c3-4494b93e067a" />\
