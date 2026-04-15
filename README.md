@@ -47,8 +47,13 @@
             <p>- I. IP Address</p>
             <p>- II. Disable CDP</p>
             <p>- III. Apply PSTN Access-List Inbound</p>
-        <p>- N. Configure And Connect Branch 1 LAN Interface G0/0</p>
-        <p>- O. Configure And Connect Branch 1 LAN Interface G0/0</p>
+        <p>- N. Configure Internal Dial-Peers</p>
+            <p>- I. HQ Extensions (1…$)</p>
+        <p>- O. Configure Outbound Dial-Peers</p>
+            <p>- I. 10-Digit Long Distance And Toll-Free</p>
+            <p>- II. 7-Digit Local</p>
+            <p>- III. International </p>
+            <p>- IV. 411 & 911</p>
         <p>- P. Configure And Connect Branch 1 LAN Interface G0/0</p>
         <p>- Q. Configure And Connect Branch 1 LAN Interface G0/0</p>
         <p>- R. Configure And Connect Branch 1 LAN Interface G0/0</p>
