@@ -61,20 +61,13 @@
         <p>- T. Configure Session Initiation Protocol (SIP) <em>(Lab Configuration Not Supported)</em></p>
         <p>- U. Configure DSP Services <em>(Lab Configuration Not Supported)</em></p>
     <p><b>Step 2: Install And Configure Guest Wireless Access</b></p>
-        <p>- A. On The HQ Server Configure The DHCP Scope For The Guest Network</p>
-            <p>- I. Default Gateway</p>
-            <p>- II. DNS Server</p>
-            <p>- III. Starting IP Address</p>
-            <p>- IV. Subnet Mask</p>
-            <p>- V. Number Of DHCP Users</p>
-        <p>- B. On HQ Core Switches 1 And 2 Configure An Access-List That Only Allows DHCP And Internet Traffic For The Guest Network And Blocks All Other Traffic</p>
-        <p>- C. On The HQ Core Switches 1 And 2 Apply The New Access-List To The VLAN 172 Interface</p>
-        <p>- D. On The HQ Core Switch 1 And 2 Configure IP Helper In The VLAN 172 Interface</p>
-        <p>- E. Configure A Switchport On HQ Access Switch 3 To Be A Member Of VLAN 172 (Guest)</p>
-        <p>- F. Install A New AccessPoint-PT And Connect It To The Newly Configure Switchport On HQ Access Switch 3</p>
-        <p>- G. Configure The New AP With A Unique SSID (GUEST), Channel, And Passphrase Using WPA2-PSK And AES</p>
-        <p>- H. Install A Wireless Tablet And Configure It With The Same SSID And Passphrase</p>   
-        <p>- I. Once The New Wireless Tablet Is Connected Confirm It Has Access To The Internet, But CANNOT Access Any Of The Corporate Networks.</p>
+        <p>- A. Rack, Mount, And Power On All Three Switches</p>
+        <p>- B. Basic Router Configurations (Hostname, NTP, Domain-Name, SSH, Etc)</p>
+        <p>- C. Configure VLAN Trunking Protocol (VTP) Transparent</p>
+        <p>- D. Configure MGMT VLAN Interface</p>
+        <p>- E. Configure Default Gateway</p>
+        <p>- F. Configure And Connect Trunks Port Back To The Branch 1 Router</p>
+        <p>- G. Configure Access Ports</p>
         <h2><strong><u>Implementation</u></strong></h2>
         <h3>Step 1: Install And Configure Corporate Wireless Access</h3>
             <p>- A. Install An AccessPoint-PT And Connect It To HQ Core Switch 2 Into An Access Port.</p>
