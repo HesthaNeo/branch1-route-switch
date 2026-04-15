@@ -12,7 +12,12 @@
             <p>- I. MGMT Interface VLAN 100</p>
             <p>- II. Data Interface VLAN 192</p>
             <p>- III. Voice Interface VLAN 10</p>
-        <p>- E. Configure A Switchport On HQ Access Switch 3 To Be A Member Of VLAN 172 (Guest)</p>
+        <p>- E. Configure DHCP Services For Branch 1 Data And Voice Networks</p>
+            <p>- I. Address Exclusions</p>
+            <p>- II. DHCP Pool B1-DATA</p>
+                <p>- 1. Network</p>
+                <p>- 2. Default-Router</p>
+                <p>- 3. DNS Server</p>
         <p>- F. Install A New AccessPoint-PT And Connect It To The Newly Configured Switchport On HQ Access Switch 3</p>
         <p>- G. Configure The New AP With A Unique SSID (GUEST), Channel, And Passphrase Using WPA2-PSK And AES</p>
         <p>- H. Install A Wireless Tablet And Configure It With The Same SSID And Passphrase.</p>
