@@ -25,8 +25,12 @@
         <p>- F. Configure And Connect Private WAN Interface G0/1</p>
             <p>- I. IP Address</p>
             <p>- II. Disable CDP</p>
-        <p>- G. Configure The New AP With A Unique SSID (GUEST), Channel, And Passphrase Using WPA2-PSK And AES</p>
-        <p>- H. Install A Wireless Tablet And Configure It With The Same SSID And Passphrase.</p>
+        <p>- G. Configure Private WAN Border Gateway Protocol (BGP) Peering</p>
+            <p>- I. BGP ASN 65123</p>
+                <p>- 1. Router ID</p>
+                <p>- 2. Neighbor</p>
+                <p>- 3. Networks</p>
+        <p>- H. Configure Default Route Pointing To Private WAN Neighbor IP</p>
         <p>- I. Once The New Wireless Tablet Is Connected Confirm It Has Access To The Internet, But CANNOT Access Any Of The Corporate Networks</p>
         <p>- J. Configure And Connect Branch 1 LAN Interface G0/0</p>
         <p>- K. Configure And Connect Branch 1 LAN Interface G0/0</p>
