@@ -54,13 +54,12 @@
             <p>- II. 7-Digit Local</p>
             <p>- III. International </p>
             <p>- IV. 411 & 911</p>
-        <p>- P. Configure And Connect Branch 1 LAN Interface G0/0</p>
-        <p>- Q. Configure And Connect Branch 1 LAN Interface G0/0</p>
-        <p>- R. Configure And Connect Branch 1 LAN Interface G0/0</p>
-        <p>- S. Configure And Connect Branch 1 LAN Interface G0/0</p>
-        <p>- E. Configure And Connect Branch 1 LAN Interface G0/0</p>
-        <p>- E. Configure And Connect Branch 1 LAN Interface G0/0</p>
-        <p>- E. Configure And Connect Branch 1 LAN Interface G0/0</p>
+        <p>- P. Configure Outbound Translation Rules <em>(Lab Configuration Not Supported)</em></p>
+        <p>- Q. Configure Inbound Dial-Peers <em>(Lab Configuration Not Supported)</em></p>
+        <p>- R. Configure Inbound Voice Translation Rules <em>(Lab Configuration Not Supported)</em></p>
+        <p>- S. Configure Voice Service VoIP <em>(Lab Configuration Not Supported)</em></p>
+        <p>- T. Configure Session Initiation Protocol (SIP) <em>(Lab Configuration Not Supported)</em></p>
+        <p>- U. Configure DSP Services <em>(Lab Configuration Not Supported)</em></p>
     <p><b>Step 2: Install And Configure Guest Wireless Access</b></p>
         <p>- A. On The HQ Server Configure The DHCP Scope For The Guest Network</p>
             <p>- I. Default Gateway</p>
