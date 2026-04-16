@@ -150,6 +150,13 @@
                 <img width="1281" height="906" alt="Screenshot 2026-04-16 175802" src="https://github.com/user-attachments/assets/52b16c9b-2b4b-4f7a-ad8f-78c51d8dfa15" />
             <p>- B. Next we will do basic switch configurations (hostname, NTP, domain-name, SSH, etc).</p>
                 <img width="872" height="979" alt="Screenshot 2026-04-16 180031" src="https://github.com/user-attachments/assets/939ab7dc-26f3-49e1-9910-b598ede5874d" />
+            <p>- C. Next we will configure VLAN trunking protocol (VTP) transparent.</p>
+                <img width="871" height="526" alt="Screenshot 2026-04-16 180520" src="https://github.com/user-attachments/assets/cdf6e515-4375-4ed3-95c7-a975f3b8549f" />
+            <p>- D. Next, we'll configure MGMT vlan interface and add the voice and data vlans to the switch.</p>
+                <img width="870" height="598" alt="Screenshot 2026-04-16 180841" src="https://github.com/user-attachments/assets/d1a9ed83-c8ce-4c20-9d1a-4a1eeff19b73" />
+
+                
+
 
 
                 <p>- For this step, we will process with adding the guest network DHCP scope to the HQ-Server.</p>
