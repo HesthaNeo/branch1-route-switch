@@ -161,44 +161,7 @@
             <p>- G. Lastly, we'll configure the access ports on the branch 1 switch.</p>
                 <img width="869" height="1505" alt="Screenshot 2026-04-16 181544" src="https://github.com/user-attachments/assets/86663e80-8a33-45b4-a758-4d2716d714bf" />
                 <img width="870" height="666" alt="Screenshot 2026-04-16 181634" src="https://github.com/user-attachments/assets/cbf22726-96c5-4d47-9c1b-40b024877f36" />
-                
-
-
-
-
-            
-
-                
-
-
-
-                <p>- For this step, we will process with adding the guest network DHCP scope to the HQ-Server.</p>
-                <img width="872" height="877" alt="Screenshot 2026-04-14 183054" src="https://github.com/user-attachments/assets/383b69cf-e7a1-44ea-b6f9-05225a30097f" />
-            <p>- B. On HQ Core Switches 1 And 2 Configure An Access-List That Only Allows DHCP And Internet Traffic For The Guest Network And Blocks All Other Traffic</p>
-                <p>- For this step, we will configure an ACL and DHCP helper on both core switches to prepare for guest wireless access.</p>
-                <img width="872" height="494" alt="Screenshot 2026-04-14 183929" src="https://github.com/user-attachments/assets/974d50d0-13e0-4363-9b1c-aa05f8c7be7f" />
-                <img width="864" height="498" alt="Screenshot 2026-04-14 184215" src="https://github.com/user-attachments/assets/8f662444-589e-407a-a211-fb85be8b695e" />
-            <p>- C. On The HQ Core Switches 1 And 2 Apply The New Access-List To The VLAN 172 Interface</p>
-                <img width="871" height="287" alt="Screenshot 2026-04-14 184435" src="https://github.com/user-attachments/assets/5015bf7d-9895-434c-9902-6745e03bc5b4" />
-                <img width="871" height="255" alt="Screenshot 2026-04-14 184544" src="https://github.com/user-attachments/assets/2fe5f5b5-9eff-4114-a620-1f3364d28285" />
-            <p>- D. On The HQ Core Switch 1 And 2 Configure IP Helper In The VLAN 172 Interface</p>
-                <img width="871" height="257" alt="Screenshot 2026-04-14 184759" src="https://github.com/user-attachments/assets/6db75d16-a126-49d8-8f76-2452ae233be1" />
-                <img width="868" height="322" alt="Screenshot 2026-04-14 184856" src="https://github.com/user-attachments/assets/594f4826-35be-4cac-8362-7b4855e3921a" />
-            <p>- E. Configure A Switchport On HQ Access Switch 3 To Be A Member Of VLAN 172 (Guest)</p>
-                <img width="870" height="349" alt="Screenshot 2026-04-14 185146" src="https://github.com/user-attachments/assets/6c1ba806-e766-4a35-abf3-fa62f624c3ff" />
-            <p>- F. Install A New AccessPoint-PT And Connect It To The Newly Configure Switchport On HQ Access Switch 3</p>
-                <img width="930" height="887" alt="Screenshot 2026-04-14 185514" src="https://github.com/user-attachments/assets/4869c4f1-bfe3-4efc-846e-57bb50a0620a" />
-            <p>- G. Configure The New AP With A Unique SSID (GUEST), Channel, And Passphrase Using WPA2-PSK And AES</p>
-                <img width="870" height="913" alt="Screenshot 2026-04-14 185635" src="https://github.com/user-attachments/assets/50978213-3eee-45bc-bf6a-9ed86fce33df" />
-            <p>- H. Install A Wireless Tablet And Configure It With The Same SSID And Passphrase</p>
-                <img width="935" height="891" alt="Screenshot 2026-04-14 185842" src="https://github.com/user-attachments/assets/0d840657-10ad-4e4b-9ec0-6b42f000902b" />
-                <img width="873" height="878" alt="Screenshot 2026-04-14 185819" src="https://github.com/user-attachments/assets/6583ab01-a7f6-41b6-83c1-833cf46f7117" />
-            <p>- I. Once The New Wireless Tablet Is Connected Confirm It Has Access To The Internet, But CANNOT Access Any Of The Corporate Networks.</p>
-                <img width="873" height="1587" alt="Screenshot 2026-04-14 193747" src="https://github.com/user-attachments/assets/1cf5437a-c89c-456b-bce7-46938b665268" />
-            <p><em>- Successful. This exactly what we want to see and how the guest network should behave.</em></p>
-            
-
-
+                <p><em>- *Now that the Branch 1 router and switch are installed, we can set up the phones, hosts & wireless!</em></p>
 
 
 
