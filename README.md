@@ -134,6 +134,8 @@
                 1. First, we'll configure dial peers for dialing 10-digit numbers:
                 <img width="870" height="271" alt="Screenshot 2026-04-16 174804" src="https://github.com/user-attachments/assets/ece1306b-9b17-47f3-b5ae-2a5427e71605" />
                 2. Second, we'll configure dial peers for dialing 7-digit numbers:
+                <img width="873" height="266" alt="Screenshot 2026-04-16 174943" src="https://github.com/user-attachments/assets/9093dbe3-5675-4e5b-ba05-45b11df2835b" />
+
 
             <p>- D. Now, we'll configure and connect branch 1 LAN interface G0/0. We'll set our VLANS respectively as well. (Mgmt interface vlan 100, data interface vlan 192, voice interface vlan 10.)</p>
             <p>- D. Now, we'll configure and connect branch 1 LAN interface G0/0. We'll set our VLANS respectively as well. (Mgmt interface vlan 100, data interface vlan 192, voice interface vlan 10.)</p>
