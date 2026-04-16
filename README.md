@@ -83,6 +83,9 @@
             <p>- D. Now, we'll configure and connect branch 1 LAN interface G0/0. We'll set our VLANS respectively as well. (Mgmt interface vlan 100, data interface vlan 192, voice interface vlan 10.)</p>
                 <img width="869" height="887" alt="Screenshot 2026-04-16 163432" src="https://github.com/user-attachments/assets/c0710a87-16ea-4e29-9e90-a407b5486548" />
             <p>- E. Next, we'll configure DHCP services for branch 1 data and voice networks.</p>
+                1. First, address exclusions for the DCHP pools.
+                <img width="870" height="225" alt="Screenshot 2026-04-16 163950" src="https://github.com/user-attachments/assets/381602d7-4f18-4d78-a47e-eadc7ed229d4" />
+
                 
             <p>- D. Now, we'll configure and connect branch 1 LAN interface G0/0. We'll set our VLANS respectively as well. (Mgmt interface vlan 100, data interface vlan 192, voice interface vlan 10.)</p>
             <p>- D. Now, we'll configure and connect branch 1 LAN interface G0/0. We'll set our VLANS respectively as well. (Mgmt interface vlan 100, data interface vlan 192, voice interface vlan 10.)</p>
