@@ -113,11 +113,8 @@
             <p>- I. Next, we'll configure the Private WAN voice quality of service.</p>
                 <img width="871" height="858" alt="Screenshot 2026-04-16 171730" src="https://github.com/user-attachments/assets/3477303d-f3f7-46ad-931a-492ea96cb34d" />
                 <img width="872" height="258" alt="Screenshot 2026-04-16 171825" src="https://github.com/user-attachments/assets/e95a26dd-15d8-4f09-8b88-4650ab9fb2e1" />
-
-
-
+            <p>-J. Next, we'll configure telephony-service.</p>
             
-            <p>- D. Now, we'll configure and connect branch 1 LAN interface G0/0. We'll set our VLANS respectively as well. (Mgmt interface vlan 100, data interface vlan 192, voice interface vlan 10.)</p>
             <p>- D. Now, we'll configure and connect branch 1 LAN interface G0/0. We'll set our VLANS respectively as well. (Mgmt interface vlan 100, data interface vlan 192, voice interface vlan 10.)</p>
             <p>- D. Now, we'll configure and connect branch 1 LAN interface G0/0. We'll set our VLANS respectively as well. (Mgmt interface vlan 100, data interface vlan 192, voice interface vlan 10.)</p>
             <p>- D. Now, we'll configure and connect branch 1 LAN interface G0/0. We'll set our VLANS respectively as well. (Mgmt interface vlan 100, data interface vlan 192, voice interface vlan 10.)</p>
