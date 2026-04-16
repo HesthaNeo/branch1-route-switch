@@ -130,10 +130,8 @@
                 <img width="870" height="340" alt="Screenshot 2026-04-16 174353" src="https://github.com/user-attachments/assets/0f5ac575-e1b1-42e2-a4e7-e0700b703533" />
                 2. Second, we'll configure dial peers for dialing Branch 2 extensions.
                 <img width="870" height="271" alt="Screenshot 2026-04-16 174527" src="https://github.com/user-attachments/assets/a1ace9c5-6716-4cd2-a526-62034ec35330" />
-
-
-                
-            <p>- D. Now, we'll configure and connect branch 1 LAN interface G0/0. We'll set our VLANS respectively as well. (Mgmt interface vlan 100, data interface vlan 192, voice interface vlan 10.)</p>
+            <p>- O. Now, we'll configure outbound dial-peers.</p>
+                1. 
             <p>- D. Now, we'll configure and connect branch 1 LAN interface G0/0. We'll set our VLANS respectively as well. (Mgmt interface vlan 100, data interface vlan 192, voice interface vlan 10.)</p>
             <p>- D. Now, we'll configure and connect branch 1 LAN interface G0/0. We'll set our VLANS respectively as well. (Mgmt interface vlan 100, data interface vlan 192, voice interface vlan 10.)</p>
             
