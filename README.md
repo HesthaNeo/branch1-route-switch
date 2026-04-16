@@ -90,7 +90,10 @@
                 3. Lastly, we'll configure the DHCP pool for B1-voice.
                 <img width="873" height="283" alt="Screenshot 2026-04-16 164428" src="https://github.com/user-attachments/assets/e05789f3-d520-48ec-9db4-80887c200932" />
                 <p><em>- The option "150 command" adds the TFTP option. Also no DNS server is required to be handed out to the phones on the network.</em></p>
-            <p>- F. For this next step, we will now configure and connect private WAN interface G0/1.</p>
+            <p>- F. For this next step, and also the next series of steps we will now configure and connect private WAN interface G0/1.</p>
+                <img width="865" height="403" alt="Screenshot 2026-04-16 164854" src="https://github.com/user-attachments/assets/cf723a89-e356-4125-ba15-e78ee110d140" />
+
+                
                 
 
 
