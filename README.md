@@ -86,6 +86,8 @@
                 1. First, address exclusions for the DCHP pools.
                 <img width="870" height="225" alt="Screenshot 2026-04-16 163950" src="https://github.com/user-attachments/assets/381602d7-4f18-4d78-a47e-eadc7ed229d4" />
                 2. Second, we'll configure the DHCP pool for B1-data (network, default-router, dns server, etc.)
+                <img width="867" height="283" alt="Screenshot 2026-04-16 164226" src="https://github.com/user-attachments/assets/6851ab5c-dd2f-40e4-922d-bf4f6e977239" />
+
                 
 
                 
