@@ -139,13 +139,12 @@
                 <img width="873" height="271" alt="Screenshot 2026-04-16 175108" src="https://github.com/user-attachments/assets/35df698a-62df-4011-9636-ae4c0930daf7" />
                 4. Lastly, we'll configure dial peers for dialing 411 and 911 respectively:
                 <img width="868" height="268" alt="Screenshot 2026-04-16 175250" src="https://github.com/user-attachments/assets/5585aa33-d5b3-4102-8a58-f70bc6eb1aa7" />
-
-
-
-
-            <p>- D. Now, we'll configure and connect branch 1 LAN interface G0/0. We'll set our VLANS respectively as well. (Mgmt interface vlan 100, data interface vlan 192, voice interface vlan 10.)</p>
-            <p>- D. Now, we'll configure and connect branch 1 LAN interface G0/0. We'll set our VLANS respectively as well. (Mgmt interface vlan 100, data interface vlan 192, voice interface vlan 10.)</p>
-            
+            <p>- P. Configure Outbound Translation Rules <em>(Lab Configuration Not Supported)</em></p>
+            <p>- Q. Configure Inbound Dial-Peers <em>(Lab Configuration Not Supported)</em></p>
+            <p>- R. Configure Inbound Voice Translation Rules <em>(Lab Configuration Not Supported)</em></p>
+            <p>- S. Configure Voice Service VoIP <em>(Lab Configuration Not Supported)</em></p>
+            <p>- T. Configure Session Initiation Protocol (SIP) <em>(Lab Configuration Not Supported)</em></p>
+            <p>- U. Configure DSP Services <em>(Lab Configuration Not Supported)</em></p>
         <h3>Step 2: Install and Configure The Branch 1 Switch</h3>
             <p>- A. On The HQ Server Configure The DHCP Scope For The Guest Network</p>
                 <p>- For this step, we will process with adding the guest network DHCP scope to the HQ-Server.</p>
