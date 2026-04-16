@@ -148,6 +148,9 @@
         <h3>Step 2: Install and Configure The Branch 1 Switch</h3>
             <p>- A. We'll start by racking, mounting, and powering on the branch 1 2960 switch.</p>
                 <img width="1281" height="906" alt="Screenshot 2026-04-16 175802" src="https://github.com/user-attachments/assets/52b16c9b-2b4b-4f7a-ad8f-78c51d8dfa15" />
+            <p>- B. Next we will do basic switch configurations (hostname, NTP, domain-name, SSH, etc).</p>
+                <img width="872" height="979" alt="Screenshot 2026-04-16 180031" src="https://github.com/user-attachments/assets/939ab7dc-26f3-49e1-9910-b598ede5874d" />
+
 
                 <p>- For this step, we will process with adding the guest network DHCP scope to the HQ-Server.</p>
                 <img width="872" height="877" alt="Screenshot 2026-04-14 183054" src="https://github.com/user-attachments/assets/383b69cf-e7a1-44ea-b6f9-05225a30097f" />
