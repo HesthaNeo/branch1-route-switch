@@ -72,8 +72,17 @@
         <h3>Step 1: Install And Configure The Branch 1 Router</h3>
             <p>- A. Install An AccessPoint-PT And Connect It To HQ Core Switch 2 Into An Access Port.</p>
             <p>- First, we will rack, mount, and power on the cisco 2911 router.</p>
-                <img width="939" height="884" alt="Screenshot 2026-04-14 181638" src="https://github.com/user-attachments/assets/ddb4e5c1-6c5b-40ee-a2c3-4494b93e067a" />\
-            <p>- B. Configure The New AP With A Unique SSID, Channel, And Passphrase Using WPA2-PSK And AES</p>
+                <img width="1395" height="873" alt="Screenshot 2026-04-16 161350" src="https://github.com/user-attachments/assets/721ece10-de94-4c77-92cd-9dfc35198b4b" />
+            <p>- B. Next, we will install the uck9 license.</p>
+                <img width="866" height="995" alt="Screenshot 2026-04-16 161731" src="https://github.com/user-attachments/assets/7afcbaa1-7742-4097-b7c1-fc429f8569d0" />
+                <img width="870" height="1137" alt="Screenshot 2026-04-16 161850" src="https://github.com/user-attachments/assets/52ae8506-d271-499e-9370-496677da66cd" />
+                <img width="871" height="1354" alt="Screenshot 2026-04-16 161944" src="https://github.com/user-attachments/assets/377ce501-7d58-4aba-9849-8ea7e602f504" />
+                <img width="872" height="1217" alt="Screenshot 2026-04-16 162032" src="https://github.com/user-attachments/assets/b597394e-aaee-4a8e-beaf-6bd237de2906" />
+
+                
+
+
+
                 <img width="866" height="885" alt="Screenshot 2026-04-14 181922" src="https://github.com/user-attachments/assets/4d696d46-e485-46e1-a112-dbbe977ac824" />
             <p>- C. Install A Wireless Tablet And Configure It With The Same SSID And Passphrase</p>
                 <img width="940" height="883" alt="Screenshot 2026-04-14 182154" src="https://github.com/user-attachments/assets/624c65b9-7f08-4157-98e6-6f0249f51f05" />
@@ -82,7 +91,7 @@
                 <img width="871" height="1574" alt="Screenshot 2026-04-14 182528" src="https://github.com/user-attachments/assets/6da25638-1070-4782-bed2-610c6fb3fd56" />
                 <img width="526" height="591" alt="Screenshot 2026-04-14 182621" src="https://github.com/user-attachments/assets/6a484e11-2c30-4624-b74c-2f0d957b64f5" />
             <p><em>- Successful.</em></p>
-        <h3>Step 2: Install And Configure Guest Wireless Access</h3>
+        <h3>Step 2: Install and Configure The Branch 1 Switch</h3>
             <p>- A. On The HQ Server Configure The DHCP Scope For The Guest Network</p>
                 <p>- For this step, we will process with adding the guest network DHCP scope to the HQ-Server.</p>
                 <img width="872" height="877" alt="Screenshot 2026-04-14 183054" src="https://github.com/user-attachments/assets/383b69cf-e7a1-44ea-b6f9-05225a30097f" />
