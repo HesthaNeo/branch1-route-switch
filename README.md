@@ -131,7 +131,10 @@
                 2. Second, we'll configure dial peers for dialing Branch 2 extensions.
                 <img width="870" height="271" alt="Screenshot 2026-04-16 174527" src="https://github.com/user-attachments/assets/a1ace9c5-6716-4cd2-a526-62034ec35330" />
             <p>- O. Now, we'll configure outbound dial-peers.</p>
-                1. 
+                1. First, we'll configure dial peers for dialing 10-digit numbers:
+                <img width="870" height="271" alt="Screenshot 2026-04-16 174804" src="https://github.com/user-attachments/assets/ece1306b-9b17-47f3-b5ae-2a5427e71605" />
+                2. Second, we'll configure dial peers for dialing 7-digit numbers:
+
             <p>- D. Now, we'll configure and connect branch 1 LAN interface G0/0. We'll set our VLANS respectively as well. (Mgmt interface vlan 100, data interface vlan 192, voice interface vlan 10.)</p>
             <p>- D. Now, we'll configure and connect branch 1 LAN interface G0/0. We'll set our VLANS respectively as well. (Mgmt interface vlan 100, data interface vlan 192, voice interface vlan 10.)</p>
             
