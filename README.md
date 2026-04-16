@@ -158,6 +158,8 @@
             <p>- F. Now we'll configure and connect trunks port back to the branch 1 router.</p>
                 <img width="872" height="335" alt="Screenshot 2026-04-16 181154" src="https://github.com/user-attachments/assets/82b004e3-2cbc-4f32-b00a-7c9a2f64f9fd" />
                 <img width="1151" height="902" alt="Screenshot 2026-04-16 181256" src="https://github.com/user-attachments/assets/1faa7292-5820-4bc6-9097-2bb8dc4625b8" />
+            <p>- G. Lastly, we'll configure the access ports on the branch 1 switch.</p>
+                
 
 
             
