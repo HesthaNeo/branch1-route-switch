@@ -123,6 +123,8 @@
             <p>- M. Next, we'll configure and connect the PSTN voice interface G0/2 and apply our PSTN access-list inbound.</p>
                 <img width="871" height="414" alt="Screenshot 2026-04-16 173510" src="https://github.com/user-attachments/assets/bec864ce-2d0b-4d65-bea9-02a77ca11267" />
                 <img width="1155" height="879" alt="Screenshot 2026-04-16 173629" src="https://github.com/user-attachments/assets/6a696088-1778-42db-b071-c2f06fe5eabe" />
+                <img width="873" height="392" alt="Screenshot 2026-04-16 173941" src="https://github.com/user-attachments/assets/29f90eb0-4b3b-4a23-a2f3-f5b40e177998" />
+
 
 
             
