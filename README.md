@@ -146,7 +146,7 @@
             <p>- T. Configure Session Initiation Protocol (SIP) <em>(Lab Configuration Not Supported)</em></p>
             <p>- U. Configure DSP Services <em>(Lab Configuration Not Supported)</em></p>
         <h3>Step 2: Install and Configure The Branch 1 Switch</h3>
-            <p>- A. We'll start by racking, mmounting, and powering on the branch 1 switch.</p>
+            <p>- A. We'll start by racking, mounting, and powering on the branch 1 2960 switch.</p>
                 <img width="1281" height="906" alt="Screenshot 2026-04-16 175802" src="https://github.com/user-attachments/assets/52b16c9b-2b4b-4f7a-ad8f-78c51d8dfa15" />
 
                 <p>- For this step, we will process with adding the guest network DHCP scope to the HQ-Server.</p>
