@@ -96,6 +96,9 @@
                 <img width="873" height="334" alt="Screenshot 2026-04-16 165109" src="https://github.com/user-attachments/assets/899d97c2-5cc9-42a4-a866-4b97ea88ddf3" />
                 <p><em>- And as you can see, we have successful pings to the provider router. As a side note, we also configured "no cdp enable" to ensure we aren't sending cdp hello messages to the provider network.</em></p>
             <p>- G. Next, we'll configure private WAN border gateway protocol (BGP) peering.</p>
+                1. We'll start by configuring the BGP router ID and set up peering with the provider router.
+                <img width="869" height="243" alt="Screenshot 2026-04-16 165712" src="https://github.com/user-attachments/assets/9d88ca45-7162-4080-8041-9427d952251f" />
+
                 
             <p>- D. Now, we'll configure and connect branch 1 LAN interface G0/0. We'll set our VLANS respectively as well. (Mgmt interface vlan 100, data interface vlan 192, voice interface vlan 10.)</p>
             <p>- D. Now, we'll configure and connect branch 1 LAN interface G0/0. We'll set our VLANS respectively as well. (Mgmt interface vlan 100, data interface vlan 192, voice interface vlan 10.)</p>
