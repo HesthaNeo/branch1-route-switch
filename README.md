@@ -78,13 +78,9 @@
                 <img width="870" height="1137" alt="Screenshot 2026-04-16 161850" src="https://github.com/user-attachments/assets/52ae8506-d271-499e-9370-496677da66cd" />
                 <img width="871" height="1354" alt="Screenshot 2026-04-16 161944" src="https://github.com/user-attachments/assets/377ce501-7d58-4aba-9849-8ea7e602f504" />
                 <img width="872" height="1217" alt="Screenshot 2026-04-16 162032" src="https://github.com/user-attachments/assets/b597394e-aaee-4a8e-beaf-6bd237de2906" />
+            <p>- C. Next we will do basic Router configurations (hostname, NTP, domain-name, SSH, etc).</p>
 
-                
-
-
-
-                <img width="866" height="885" alt="Screenshot 2026-04-14 181922" src="https://github.com/user-attachments/assets/4d696d46-e485-46e1-a112-dbbe977ac824" />
-            <p>- C. Install A Wireless Tablet And Configure It With The Same SSID And Passphrase</p>
+            
                 <img width="940" height="883" alt="Screenshot 2026-04-14 182154" src="https://github.com/user-attachments/assets/624c65b9-7f08-4157-98e6-6f0249f51f05" />
                 <img width="867" height="882" alt="Screenshot 2026-04-14 182226" src="https://github.com/user-attachments/assets/b2acf45e-39ca-4fff-a4e0-bb92bfe43910" />
             <p>- D. Once The New Wireless Tablet Is Connected Confirm It Has Access To The Corporate Networks And Internet</p>
