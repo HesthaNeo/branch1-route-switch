@@ -98,6 +98,7 @@
             <p>- G. Next, we'll configure private WAN border gateway protocol (BGP) peering.</p>
                 1. We'll start by configuring the BGP router ID and set up peering with the provider router.
                 <img width="869" height="243" alt="Screenshot 2026-04-16 165712" src="https://github.com/user-attachments/assets/9d88ca45-7162-4080-8041-9427d952251f" />
+                <p><em>- Command "router bgp 65123" starts so we can enter the configuration for autonomous system #65123. Command "bgp router-id 192.168.250.6" forces the router to us g0/1 IP as the BGP ID. Command "neighbor 192.168.250.5 remote-as 65535" configures the BGP peer.</em></p>
 
                 
             <p>- D. Now, we'll configure and connect branch 1 LAN interface G0/0. We'll set our VLANS respectively as well. (Mgmt interface vlan 100, data interface vlan 192, voice interface vlan 10.)</p>
