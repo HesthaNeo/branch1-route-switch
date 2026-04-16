@@ -102,6 +102,12 @@
                 2. Second, we'll configure network statements to advertise across the private WAN.
                 <img width="870" height="1094" alt="Screenshot 2026-04-16 170216" src="https://github.com/user-attachments/assets/4cbe6e60-4d19-45a2-b592-172574edbecb" />
                 <p><em>- "network 192.168.120.0 mask 255.255.255.0" advertises B1 MGMT, "network 192.168.20.0 mask 255.255.255.0" advertises B1 DATA, "network 10.10.20.0 mask 255.255.255.0" advertises B1 VOICE.</em></p>
+                <p><em>- Let's check the bgp neighbor to make sure it is connected:</em></p>
+                <img width="874" height="365" alt="Screenshot 2026-04-16 170610" src="https://github.com/user-attachments/assets/cbf3841e-e22b-4c9d-a4e0-4635d7496897" />
+                <img width="871" height="1559" alt="Screenshot 2026-04-16 170656" src="https://github.com/user-attachments/assets/2056a6eb-5e06-43a6-a93c-307944b0e2d5" />
+
+
+                
                 
 
                 
