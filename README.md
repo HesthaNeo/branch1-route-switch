@@ -80,12 +80,7 @@
                 <img width="872" height="1217" alt="Screenshot 2026-04-16 162032" src="https://github.com/user-attachments/assets/b597394e-aaee-4a8e-beaf-6bd237de2906" />
             <p>- C. Next we will do basic Router configurations (hostname, NTP, domain-name, SSH, etc).</p>
                 <img width="874" height="968" alt="Screenshot 2026-04-16 162754" src="https://github.com/user-attachments/assets/3e343fe9-285e-4a55-89e8-875eee416989" />
-
-
-            
-                <img width="940" height="883" alt="Screenshot 2026-04-14 182154" src="https://github.com/user-attachments/assets/624c65b9-7f08-4157-98e6-6f0249f51f05" />
-                <img width="867" height="882" alt="Screenshot 2026-04-14 182226" src="https://github.com/user-attachments/assets/b2acf45e-39ca-4fff-a4e0-bb92bfe43910" />
-            <p>- D. Once The New Wireless Tablet Is Connected Confirm It Has Access To The Corporate Networks And Internet</p>
+            <p>- D. Now, we'll configure and connect branch 1 LAN interface G0/0</p>
                 <img width="871" height="1574" alt="Screenshot 2026-04-14 182528" src="https://github.com/user-attachments/assets/6da25638-1070-4782-bed2-610c6fb3fd56" />
                 <img width="526" height="591" alt="Screenshot 2026-04-14 182621" src="https://github.com/user-attachments/assets/6a484e11-2c30-4624-b74c-2f0d957b64f5" />
             <p><em>- Successful.</em></p>
