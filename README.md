@@ -112,6 +112,8 @@
                 <img width="872" height="231" alt="Screenshot 2026-04-16 171242" src="https://github.com/user-attachments/assets/b61200ef-05dd-4b99-a5b2-bb7063b2cf5b" />
             <p>- I. Next, we'll configure the Private WAN voice quality of service.</p>
                 <img width="871" height="858" alt="Screenshot 2026-04-16 171730" src="https://github.com/user-attachments/assets/3477303d-f3f7-46ad-931a-492ea96cb34d" />
+                <img width="872" height="258" alt="Screenshot 2026-04-16 171825" src="https://github.com/user-attachments/assets/e95a26dd-15d8-4f09-8b88-4650ab9fb2e1" />
+
 
 
             
