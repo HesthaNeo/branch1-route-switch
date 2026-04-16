@@ -94,7 +94,7 @@
                 <img width="865" height="403" alt="Screenshot 2026-04-16 164854" src="https://github.com/user-attachments/assets/cf723a89-e356-4125-ba15-e78ee110d140" />
                 <img width="1208" height="865" alt="Screenshot 2026-04-16 164959" src="https://github.com/user-attachments/assets/baf55426-a5e2-4134-b95d-0d47afda7e19" />
                 <img width="873" height="334" alt="Screenshot 2026-04-16 165109" src="https://github.com/user-attachments/assets/899d97c2-5cc9-42a4-a866-4b97ea88ddf3" />
-                <p><em>- And as you can see, we have successful pings to the provider router. As a side note, we also configured "no cdp enable" to ensure we aren't sending cdp messages to the provider network.</em></p>
+                <p><em>- And as you can see, we have successful pings to the provider router. As a side note, we also configured "no cdp enable" to ensure we aren't sending cdp hello messages to the provider network.</em></p>
 
 
                 
