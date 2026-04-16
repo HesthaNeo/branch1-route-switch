@@ -60,7 +60,7 @@
         <p>- S. Configure Voice Service VoIP <em>(Lab Configuration Not Supported)</em></p>
         <p>- T. Configure Session Initiation Protocol (SIP) <em>(Lab Configuration Not Supported)</em></p>
         <p>- U. Configure DSP Services <em>(Lab Configuration Not Supported)</em></p>
-    <p><b>Step 2: Install And Configure Guest Wireless Access</b></p>
+    <p><b>Step 2: Install and Configure The Branch 1 Switch</b></p>
         <p>- A. Rack, Mount, And Power On All Three Switches</p>
         <p>- B. Basic Router Configurations (Hostname, NTP, Domain-Name, SSH, Etc)</p>
         <p>- C. Configure VLAN Trunking Protocol (VTP) Transparent</p>
@@ -71,7 +71,7 @@
         <h2><strong><u>Implementation</u></strong></h2>
         <h3>Step 1: Install And Configure The Branch 1 Router</h3>
             <p>- A. Install An AccessPoint-PT And Connect It To HQ Core Switch 2 Into An Access Port.</p>
-            <p>- First, we will install a wireless access point to connect corporate wireless users to the data network.</p>
+            <p>- First, we will rack, mount, and power on the cisco 2911 router.</p>
                 <img width="939" height="884" alt="Screenshot 2026-04-14 181638" src="https://github.com/user-attachments/assets/ddb4e5c1-6c5b-40ee-a2c3-4494b93e067a" />\
             <p>- B. Configure The New AP With A Unique SSID, Channel, And Passphrase Using WPA2-PSK And AES</p>
                 <img width="866" height="885" alt="Screenshot 2026-04-14 181922" src="https://github.com/user-attachments/assets/4d696d46-e485-46e1-a112-dbbe977ac824" />
