@@ -122,6 +122,8 @@
                 <img width="870" height="379" alt="Screenshot 2026-04-16 172947" src="https://github.com/user-attachments/assets/bdbf4e38-c5ca-4113-804a-63bab33e5b6b" />
             <p>- M. Next, we'll configure and connect the PSTN voice interface G0/2 and apply our PSTN access-list inbound.</p>
                 <img width="871" height="414" alt="Screenshot 2026-04-16 173510" src="https://github.com/user-attachments/assets/bec864ce-2d0b-4d65-bea9-02a77ca11267" />
+                <img width="1155" height="879" alt="Screenshot 2026-04-16 173629" src="https://github.com/user-attachments/assets/6a696088-1778-42db-b071-c2f06fe5eabe" />
+
 
             
             <p>- D. Now, we'll configure and connect branch 1 LAN interface G0/0. We'll set our VLANS respectively as well. (Mgmt interface vlan 100, data interface vlan 192, voice interface vlan 10.)</p>
