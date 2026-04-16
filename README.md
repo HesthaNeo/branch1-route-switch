@@ -117,9 +117,9 @@
                 <img width="868" height="337" alt="Screenshot 2026-04-16 172149" src="https://github.com/user-attachments/assets/63877c2e-3d78-4cbd-b780-cdbe54d1e13e" />
             <p>- K. Next, we'll configure Branch 1 ephone-dns.</p>
                 <img width="870" height="350" alt="Screenshot 2026-04-16 172401" src="https://github.com/user-attachments/assets/f2d35d32-0152-44f8-9500-2246b1002fd5" />
+            <p>- L. Now, we'll configure the PSTN access-list.</p>
 
-                
-            <p>- D. Now, we'll configure and connect branch 1 LAN interface G0/0. We'll set our VLANS respectively as well. (Mgmt interface vlan 100, data interface vlan 192, voice interface vlan 10.)</p>
+            
             <p>- D. Now, we'll configure and connect branch 1 LAN interface G0/0. We'll set our VLANS respectively as well. (Mgmt interface vlan 100, data interface vlan 192, voice interface vlan 10.)</p>
             <p>- D. Now, we'll configure and connect branch 1 LAN interface G0/0. We'll set our VLANS respectively as well. (Mgmt interface vlan 100, data interface vlan 192, voice interface vlan 10.)</p>
             <p>- D. Now, we'll configure and connect branch 1 LAN interface G0/0. We'll set our VLANS respectively as well. (Mgmt interface vlan 100, data interface vlan 192, voice interface vlan 10.)</p>
